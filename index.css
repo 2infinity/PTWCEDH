@@ -82,14 +82,8 @@ a{
   color: orange;
   cursor: pointer;
 }
-#dylans-deck{
-  width: 125px;
-  height: 125px
-}
-#cams-deck{
-  width: 125px;
-  height: 125px;
-}
+
+
 
 iframe{
   border-radius: 20px;
